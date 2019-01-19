@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool us1.ethermine.org:4444 -ewal 0x0F9984cFe2482cD38D21B3dE2741f9142FA95FD7 -epsw x
